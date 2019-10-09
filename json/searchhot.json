@@ -1,0 +1,38 @@
+{
+	"code": 200,
+	"msg": "\u8bf7\u6c42\u6210\u529f",
+	"data": {
+		"hot_keyword_list": [{
+			"keyword": "\u5ba2\u5385",
+			"times": "140"
+		}, {
+			"keyword": "\u5367\u5ba4",
+			"times": "129"
+		}, {
+			"keyword": "@@::@@",
+			"times": "105"
+		}, {
+			"keyword": "\u5899\u5730\u9762",
+			"times": "72"
+		}, {
+			"keyword": "\u5e8a\u57ab",
+			"times": "66"
+		}, {
+			"keyword": "\u53a8\u623f\u7535\u5668",
+			"times": "54"
+		}, {
+			"keyword": "\u536b\u6d74\u7528\u54c1",
+			"times": "54"
+		}, {
+			"keyword": "\u5bb6\u88c5\u4e94\u91d1",
+			"times": "42"
+		}, {
+			"keyword": "\u5b9a\u5236\u5bb6\u5177",
+			"times": "33"
+		}, {
+			"keyword": "\u5168\u5c4b\u5b9a\u5236",
+			"times": "17"
+		}],
+		"default_keyword": "\u6c99\u53d1"
+	}
+}

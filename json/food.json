@@ -1,0 +1,144 @@
+{
+    "data": {
+        "food_spu_tags": [
+            {
+                "cat_name": "客厅",
+                "id": "5",
+                "img_url": "https://img.dxjujia.com/other/2018/0815/153429874518.png",
+                "parent_id": "1",
+                "icon": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+                "spus": [
+                    {
+                        "id": "15",
+                        "parent_id": "5",
+                        "cat_name": "\u6c99\u53d1",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0510\/146288903787.png"
+                      },
+                      {
+                        "id": "18",
+                        "parent_id": "5",
+                        "cat_name": "\u7535\u89c6\u67dc",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235830521.png"
+                      },
+                      {
+                        "id": "17",
+                        "parent_id": "5",
+                        "cat_name": "\u8336\u51e0",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235832014.png"
+                      },
+                      {
+                        "id": "29",
+                        "parent_id": "5",
+                        "cat_name": "\u89d2\u51e0\/\u8fb9\u684c",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235864763.png"
+                      },
+                      {
+                        "id": "22",
+                        "parent_id": "5",
+                        "cat_name": "\u9152\u67dc\/\u88c5\u9970\u67dc",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235859180.png"
+                      },
+                      {
+                        "id": "93",
+                        "parent_id": "5",
+                        "cat_name": "\u4f11\u95f2\u6905",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235863319.png"
+                      },
+                      {
+                        "id": "60",
+                        "parent_id": "5",
+                        "cat_name": "\u6536\u7eb3\u67dc\/\u6597\u67dc",
+                        "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146235866924.png"
+                      }
+                ],
+                "tags": [
+                    
+                ],
+                "buzType": 0,
+                "activity_info": {
+                    "activity_text": "",
+                    "scheme_url": "",
+                    "icon_url": ""
+                }
+            },
+            {
+              "cat_name": "餐厅",
+              "id": "6",
+              "img_url": "https://img.dxjujia.com/other/2018/0815/153429876880.png",
+              "parent_id": "1",
+              "spus": [
+                {
+                  "id": "23",
+                  "parent_id": "6",
+                  "cat_name": "\u9910\u684c",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236132442.png"
+                },
+                {
+                  "id": "26",
+                  "parent_id": "6",
+                  "cat_name": "\u9910\u6905",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/14623613386.png"
+                },
+                {
+                  "id": "28",
+                  "parent_id": "6",
+                  "cat_name": "\u9910\u8fb9\u67dc",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236135733.png"
+                }
+              ]
+            },
+            {
+              "cat_name": "卧室",
+              "id": "4",
+              "img_url": "https://img.dxjujia.com/other/2018/0815/153429877980.png",
+              "parent_id": "1",
+              "spus": [
+                {
+                  "id": "11",
+                  "parent_id": "4",
+                  "cat_name": "\u5e8a",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236142227.png"
+                },
+                {
+                  "id": "12",
+                  "parent_id": "4",
+                  "cat_name": "\u5e8a\u57ab",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0511\/146296312676.png"
+                },
+                {
+                  "id": "13",
+                  "parent_id": "4",
+                  "cat_name": "\u5e8a\u5934\u67dc",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0511\/146296318117.png"
+                },
+                {
+                  "id": "51",
+                  "parent_id": "4",
+                  "cat_name": "\u68b3\u5986\u53f0\/\u5986\u51f3",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236147997.png"
+                },
+                {
+                  "id": "87",
+                  "parent_id": "4",
+                  "cat_name": "\u5e8a\u5c3e\u51f3",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236149591.png"
+                },
+                {
+                  "id": "31",
+                  "parent_id": "4",
+                  "cat_name": "\u6795\u5934\/\u6795\u82af",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236153396.png"
+                },
+                {
+                  "id": "54",
+                  "parent_id": "4",
+                  "cat_name": "\u7a7f\u8863\u955c",
+                  "img_url": "https:\/\/img.dxjujia.com\/other\/2016\/0504\/146236154444.png"
+                }
+              ]
+            }
+        ]
+    },
+    "code": 0,
+    "msg": "成功"
+  }

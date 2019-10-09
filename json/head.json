@@ -1,0 +1,67 @@
+{
+	"data": {
+		"card_list": [],
+		"across_banner_list": [],
+		"primary_filter": [{
+			"code": 101065,
+			"name": "同城建材",
+			"url": "https://txcx.dxjujia.com/img/index/nav_02.png",
+			"gray_url": "http://p1.meituan.net/jungle/a56275d9c97322e4c3b7663bd252b8726478.png",
+			"gray_switch": 0,
+			"skip_protocol": "channel?category_type=101065&category_text=%E7%BE%8E%E9%A3%9F",
+			"sequence": 100,
+			"brand_type": -1,
+			"first_tag_codes": [],
+			"second_tag_codes": [],
+			"method": 1691832,
+			"bubble": null
+		}, {
+			"code": 20,
+			"name": "同城家具",
+			"url": "https://txcx.dxjujia.com/img/index/nav_01.png",
+			"gray_url": "http://p0.meituan.net/jungle/6b93ee96be3df7cf2bb6e661280b047d3975.png",
+			"gray_switch": 0,
+			"skip_protocol": "channel?category_type=20&category_text=%E7%BE%8E%E5%9B%A2%E8%B6%85%E5%B8%82",
+			"sequence": 200,
+			"brand_type": -1,
+			"first_tag_codes": [],
+			"second_tag_codes": [],
+			"method": 1691832,
+			"bubble": null
+		}, {
+			"code": 21,
+			"name": "新品发布",
+			"url": "https://txcx.dxjujia.com/img/index/nav_11.png",
+			"gray_url": "http://p0.meituan.net/jungle/f33ed552c52b4466b6308a2c14dbc62d4882.png",
+			"gray_switch": 0,
+			"skip_protocol": "channel?category_type=21&category_text=%E7%94%9F%E9%B2%9C%E6%9E%9C%E8%94%AC",
+			"sequence": 300,
+			"brand_type": -1,
+			"first_tag_codes": [],
+			"second_tag_codes": [],
+			"method": 1691832,
+			"bubble": null
+		}, {
+			"code": 101068,
+			"name": "限时抢购",
+			"url": "https://txcx.dxjujia.com/img/index/nav_12.png",
+			"gray_url": "http://p1.meituan.net/jungle/461a24456d08b3078d06b00fa48c479f6639.png",
+			"gray_switch": 0,
+			"skip_protocol": "channel?category_type=101068&category_text=%E7%94%9C%E7%82%B9%E9%A5%AE%E5%93%81",
+			"sequence": 400,
+			"brand_type": -1,
+			"first_tag_codes": [],
+			"second_tag_codes": [],
+			"method": 1691832,
+			"bubble": null
+		}],
+		"bid_banner_list": [],
+		"friend_feeds": {
+			"logo": "",
+			"feed_list": []
+		},
+		"bubble_max_num": 16
+	},
+	"code": 0,
+	"msg": "成功"
+}
